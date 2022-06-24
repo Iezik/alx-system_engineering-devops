@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -r vincent ., chgrp -r staff.
+sudo chown -R vincent:staff
