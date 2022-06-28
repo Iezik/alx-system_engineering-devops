@@ -1,2 +1,2 @@
 #!/bin/bash
-man 5 passwd hosts
+cat /etc/passwd /etc/hosts
